@@ -1,3 +1,4 @@
-# olimpiak
+# olimpiak weblap
 ## github proba
-## github letoltes
+## keszitő: Hermanutz Balazs
+## 9.a csop1
