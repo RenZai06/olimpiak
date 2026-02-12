@@ -2,11 +2,28 @@ p{
     color:rgb(43, 90, 44);
 }
 body{
-    background-color:rgb(255, 255, 255);
+    /* background-color:rgb(255, 255, 255);
     background-image: url(zaszlo.jpg) ;
-    background-size: cover;
+    background-size: cover; */
 }
 h1{
     color: rgb(255, 0, 0);
     text-align: center;
+}
+
+#okori{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+    font-style: italic;  
+    text-align: justify; /*dolt betu*/
+    margin: 20px 100px 20px 100px; /*felso jobb also bal*/
+    /* font-variant: small-caps;  kiskapitalis */
+    line-height: 1.5; /*sorok magassaga , sorkizart*/
+    /* text-transform: capitalize; minden szo elso betuje nagybetus */
+    /* text-transform: lowercase; mindent kisbetuve tesz */
+    text-transform: uppercase; /*csupa nagybetu*/
+}
+
+#NOB{
+    text-decoration: underline;
 }
